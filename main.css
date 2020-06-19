@@ -1,0 +1,93 @@
+ {
+  font-family: "Caveat Brush", sans-serif;
+  font-size: 20px;
+  color: #fdffe7;
+}
+
+body {
+  background-image: url(mybaikal.jpg);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: cover;
+}
+
+h1 {
+  font-family: "Caveat Brush", sans-serif;
+  font-weight: 600;
+  font-size: 60px;
+  color: #f8046a;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+h2 {
+  font-family: "Caveat Brush", sans-serif;
+  font-weight: 700;
+  color: #431b5a;
+}
+
+h3 {
+  font-family: "Caveat Brush", sans-serif;
+  font-size: 28px;
+  color: #a59fc0;
+  padding-top: 20px;
+  margin-bottom: 0px;
+}
+
+h4 {
+  color: #fdff71;
+}
+
+h5 {
+  padding-left: 4%;
+  font-weight: 400;
+  font-style: italic;
+  margin-top: 0%;
+}
+
+p {
+  padding-left: 16px;
+  padding-right: 30%;
+  line-height: 1.8;
+  padding-bottom: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #f890aa;
+}
+
+img {
+  margin-bottom: 16px;
+}
+
+.aboutMe {
+  background-color: #70a3b8b0;
+  margin: 6%;
+  padding: 4%;
+}
+
+.table {
+  padding-top: 16px;
+  padding-left: 10px;
+  background-color: #297d80e7;
+}
+
+.answer {
+  font-style: italic;
+  border-top: 1px dashed #fdffe7bb;
+}
+
+.countOnMe {
+  list-style-type: none;
+}
+
+.links {
+  background-color: #324dc2b0;
+  margin-left: 6%;
+  margin-right: 6%;
+  padding-left: 4%;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 6%;
+}
